@@ -1,0 +1,33 @@
+* {
+	background-color: beige;
+}
+a:hover{
+	background-color: lavender;
+}
+#main1{
+	font-size: 35px;
+	
+}
+.main1{
+	background-color: seagreen;
+}
+p::first-letter{
+	font-size: 25px;
+
+}
+#main2{
+	font-size: 35px;
+}
+.main2{
+   border: 8px solid black;
+}
+h1{
+	color: rebeccapurple;
+	
+}
+
+.intro{
+	color: black;
+    background-color: beige;
+}
+
